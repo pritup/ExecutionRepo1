@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="52912" started-at="2014-10-08T11:13:55Z" finished-at="2014-10-08T11:14:48Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="52912" started-at="2014-10-08T11:13:55Z" finished-at="2014-10-08T11:14:48Z">
+      <class name="Module1.DriverClass">
+        <test-method status="PASS" signature="testt()[pri:0, instance:Module1.DriverClass@79b43f]" name="testt" duration-ms="52899" started-at="2014-10-08T11:13:55Z" finished-at="2014-10-08T11:14:48Z">
+        </test-method>
+      </class>
+    </test>
+  </suite>
+</testng-results>
